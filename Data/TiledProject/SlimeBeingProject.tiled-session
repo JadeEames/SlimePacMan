@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "../TiledProjectExported/map1..tmx": {
+            "scale": 0.8658854166666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.43308270676687,
+                "y": 482.1654135338346
+            }
+        },
+        "C:/Users/Jade/Documents/Games Tech/Git/mgic-pacman-22-23-JadeEames/Data/Images/Tiled/DungeonMap.tmx": {
+            "scale": 0.8658854166666666,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 480.43308270676687,
+                "y": 481.01052631578955
+            }
+        },
+        "C:/Users/Jade/Documents/Games Tech/Git/mgic-pacman-22-23-JadeEames/Data/Images/Tiled/DungeonTiles.tsx": {
+            "scaleInDock": 1
+        },
+        "map1.tmx": {
+            "scale": 0.8658854166666666,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 585.5278195488722,
+                "y": 445.20902255639095
+            }
+        },
+        "map_tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Jade/Documents/Games Tech/Git/mgic-pacman-22-23-JadeEames/Data/Images/TiledProjectExported",
+    "last.imagePath": "C:/Users/Jade/Documents/Games Tech/Git/mgic-pacman-22-23-JadeEames/Data/Images/TiledProject",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "map_tilesheet.tsx",
+        "map1.tmx"
+    ],
+    "project": "SlimeBeingProject.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "map_tilesheet.tsx",
+        "map1.tmx",
+        "../TiledProjectExported/map1..tmx",
+        "C:/Users/Jade/Documents/Games Tech/Git/mgic-pacman-22-23-JadeEames/Data/Images/Tiled/DungeonMap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
